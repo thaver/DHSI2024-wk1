@@ -6,8 +6,8 @@ Welcome to my portfolio! Here, you'll find a showcase of my projects and contrib
 
 Below are some of the projects I've worked on:
 
-- [Twine](<touch grass.html>)
-- [Bitsy](<are_archives_even_fun_ (1).html>)
-- [Taroko Gorge](<bigdogingc.html>)
-- [Tracery](<playingthesimsanddoingyoga.html>)
+- [Twine](touchgrass.html)
+- [Bitsy](are_archives_even_fun.html)
+- [Taroko Gorge](bigdogingc.html)
+- [Tracery](ptsady.html)
   

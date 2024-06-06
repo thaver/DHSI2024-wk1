@@ -9,4 +9,4 @@ Below are some of the projects I've worked on:
 - [Twine](touchgrass.html)
 - [Bitsy](are_archives_even_fun.html)
 - [Taroko Gorge](bigdogingc.html)
-- [Tracery] (ptsady.html)
+- [Tracery](ptsady.html)
